@@ -21,8 +21,8 @@ interests:
 - Open Science
 - Statistical Inference
 organizations:
-- name: Stanford University
-  url: https://datascience.stanford.edu/people/shilaan-alzahawi
+- name: University of Macau
+  url: https://www.um.edu.mo/about-um/
 role: PhD student in Economics
 social:
 - icon: envelope
@@ -58,10 +58,11 @@ bio: My research interests include economic growth, innovation, and intellectual
 # greeting: alzahawi::shilaan()
 ---
 
-I'm a a PhD student in Economics at the [**University of Macau**](https://www.um.edu.mo/about-um/). 
+I am a PhD student in the Department of Economics, University of Macau, supervised by Professor Angus C. CHU. In July 2022, I earned my master's degree in economics from the University of Macau. In my master's years, some of my studies were published in SSCI journals.
+
+My current research area includes economic growth, innovation and intellectual property rights. Recently, I am working on topics related to endogenous takeoff from stagnation to economic growth, which combines theory and empirical evidence.
 
 
-<center>
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
-</center> 
+# </center> 
