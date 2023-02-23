@@ -58,7 +58,7 @@ bio: My research interests include economic growth, innovation, and intellectual
 # greeting: alzahawi::shilaan()
 ---
 
-I am a PhD student in the Department of Economics, University of Macau, supervised by Professor Angus C. CHU. In July 2022, I earned my master's degree in economics from the University of Macau. In my master's years, some of my studies were published in SSCI journals.
+I am a PhD student in the [**Department of Economics, University of Macau**](https://econ.fss.um.edu.mo/), supervised by Professor [**Angus C. CHU**](https://sites.google.com/site/angusccc/home?authuser=0). In July 2022, I earned my master's degree in economics from the University of Macau. In my master's years, some of my studies were published in SSCI journals.
 
 My current research area includes economic growth, innovation and intellectual property rights. Recently, I am working on topics related to endogenous takeoff from stagnation to economic growth, which combines theory and empirical evidence.
 
