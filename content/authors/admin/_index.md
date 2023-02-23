@@ -27,10 +27,10 @@ role: PhD student in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shilaan@stanford.edu
+  link: rongxin.xu@connect.um.edu.mo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
+  link: https://scholar.google.com/citations?user=bVRfu3kAAAAJ&hl=en&oi=ao
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/shilaan01
