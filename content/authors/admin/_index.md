@@ -26,13 +26,13 @@ education:
     year: 2016
 email: rongxinxu@connect.um.edu.mo
 highlight_name: no
-interests:
-- Organizational Behavior 
-- Leadership
-- Managing Groups and Teams
-- Team and Crowd Science 
-- Open Science
-- Statistical Inference
+# interests:
+# - Organizational Behavior 
+# - Leadership
+# - Managing Groups and Teams
+# - Team and Crowd Science 
+# - Open Science
+# - Statistical Inference
 
 social:
 # - icon: envelope
