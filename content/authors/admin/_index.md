@@ -1,5 +1,18 @@
+
 ---
+widget: about
+headless: true
+weight: 10
+username: admin
 title: "Rongxin XU 徐榕鑫"
+role: PhD student in Economics
+organizations:
+- name: University of Macau
+  url: https://www.um.edu.mo/about-um/
+design:
+  column: "2"
+
+
 education:
   courses:
   - course: PhD in Economics
@@ -20,10 +33,7 @@ interests:
 - Team and Crowd Science 
 - Open Science
 - Statistical Inference
-organizations:
-- name: University of Macau
-  url: https://www.um.edu.mo/about-um/
-role: PhD student in Economics
+
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -53,15 +63,16 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: cv/shilaan.pdf
+
+
 superuser: yes
 bio: My research interests include economic growth, innovation, and intellectual property rights
 # greeting: alzahawi::shilaan()
 ---
 
-I am a PhD student in the [**Department of Economics, University of Macau**](https://econ.fss.um.edu.mo/), supervised by Professor [**Angus C. CHU**](https://sites.google.com/site/angusccc/home?authuser=0). In July 2022, I earned my master's degree in economics from the University of Macau. In my master's years, some of my studies were published in SSCI journals.
-
-My current research area includes economic growth, innovation and intellectual property rights. Recently, I am working on topics related to endogenous takeoff from stagnation to economic growth, which combines theory and empirical evidence.
-
 
 #### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://uofmacau-my.sharepoint.com/:b:/g/personal/yc27308_umac_mo/EV00Gjg2ByVIl4IVj7Ly9CQBr2u1F2Y-Gf_F7kOmDlHV2A?e=5QNJHg" "newtab" >}}Download my CV{{< /staticref >}}
-# </center> 
+
+
+
+

@@ -1,8 +1,9 @@
 ---
 cms_exclude: true
-header:
+header: 
   caption: ""
   image: ""
 title: Publications
 view: 4
+
 ---

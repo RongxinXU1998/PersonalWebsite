@@ -1,10 +1,9 @@
 
 ---
-# cms_exclude: true
-# header:
-#   caption: ""
-#   image: ""
-# title: Posts
-# view: 2
-# draft:true
+cms_exclude: true
+header:
+  caption: ""
+  image: ""
+title: About me
+view: 2
 ---

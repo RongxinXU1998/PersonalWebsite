@@ -3,11 +3,12 @@ date: "2022-10-24"
 sections:
 - block: about.avatar
   content:
-    text: null
+    text: null 
     username: admin
   id: about
   design:
     columns: "2"
+  view: card
 # - block: features
 #   content:
 #     items:
@@ -84,28 +85,31 @@ sections:
 #     title: Accomplish&shy;ments
 #   design:
 #     columns: "2"
-# - block: collection
-#   content:
-#     count: 5
-#     filters:
-#       author: ""
-#       category: ""
-#       exclude_featured: false
-#       exclude_future: false
-#       exclude_past: false
-#       folders:
-#       - post
-#       publication_type: ""
-#       tag: ""
-#     offset: 0
-#     order: desc
-#     subtitle: ""
-#     text: ""
-#     title: Recent Posts
-#   design:
-#     columns: "2"
-#     view: compact
-#   id: posts
+- block: collection
+  content:
+    count: 5
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - post
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: 
+      I am a PhD student in the [**Department of Economics, University of Macau**](https://econ.fss.um.edu.mo/), supervised by Professor [**Angus C. CHU**](https://sites.google.com/site/angusccc/home?authuser=0). In July 2022, I earned my master's degree in economics from the University of Macau. In my master's years, some of my studies were published in SSCI journals.\   
+    
+      My current research area includes economic growth, innovation and intellectual property rights. Recently, I am working on topics related to endogenous takeoff from stagnation to economic growth, which combines theory and empirical evidence.
+    title: About me
+  design:
+    columns: "2"
+    view: compact
+  id: posts
 # - block: portfolio
 #   content:
 #     buttons:
@@ -216,7 +220,7 @@ sections:
   #   title: Contact
   # design:
   #   columns: "2"
-  id: contact
-title: null
+  # id: contact
 type: landing
+# type: "widget_page"  
 ---
