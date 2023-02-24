@@ -178,13 +178,13 @@ sections:
 #     columns: "2"
 - block: contact
   content:
-    # address:
-    #   city: Stanford
-    #   country: United States
-    #   country_code: US
-    #   postcode: "94305"
-    #   region: CA
-    #   street: 450 Serra Mall
+    address:
+      city: Macao SAR
+      country: China
+      country_code: CHN
+      street: University of Macau
+      # postcode: "94305"
+      region: China
     # appointment_url: https://calendly.com
     autolink: true
     # email: rongxinxu@outlook.com  
@@ -217,10 +217,10 @@ sections:
     # subtitle: null
   #   text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
   #     ut magna et, vehicula efficitur enim.
-  #   title: Contact
-  # design:
-  #   columns: "2"
-  # id: contact
+    title: Contact
+  design:
+    columns: "2"
+  id: contact
 type: landing
 # type: "widget_page"  
 ---
