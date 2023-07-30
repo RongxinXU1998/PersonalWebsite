@@ -110,6 +110,7 @@ sections:
     columns: "2"
     view: compact
   id: posts
+  
 # - block: portfolio
 #   content:
 #     buttons:
