@@ -150,20 +150,20 @@ sections:
 #     columns: "2"
 #     view: card
 #   id: featured
-# - block: collection
-#   content:
-#     filters:
-#       exclude_featured: true
-#       folders:
-#       - publication
-#     text: |-
-#       {{% callout note %}}
-#       Quickly discover relevant content by [filtering publications](./publication/).
-#       {{% /callout %}}
-#     title: Recent Publications
-#   design:
-#     columns: "2"
-#     view: citation
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    text: |-
+      {{% callout note %}}
+      Quickly discover relevant content by [filtering publications](./publication/).
+      {{% /callout %}}
+    title: Recent Publications
+  design:
+    columns: "2"
+    view: citation
 # - block: collection
 #   content:
 #     filters:
@@ -190,7 +190,6 @@ sections:
       region: China
     # appointment_url: https://calendly.com
     autolink: true
-    # email: rongxinxu@outlook.com  
     email: rongxin.xu@connect.um.edu.mo
     phone: (853)63416889
     contact_links:
