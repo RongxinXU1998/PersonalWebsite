@@ -157,8 +157,9 @@ sections:
       folders:
       - publication
     text: |-
-      Export-Led Takeoff in a Schumpeterian Economy. *Journal of International Economic*, forthcoming. (with Angus Chu and Pietro Peretto)
-    title: Recent Publications
+      [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, forthcoming. (with Angus Chu and Pietro Peretto)\
+      [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214).*Macroeconomic Dynamic*, forthcoming. (with Angus Chu)
+    title: Selected Publications
   design:
     columns: "2"
     view: citation
