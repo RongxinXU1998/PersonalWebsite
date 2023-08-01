@@ -192,7 +192,7 @@ sections:
     autolink: true
     # email: rongxinxu@outlook.com  
     email: rongxin.xu@connect.um.edu.mo
-    phone: (86)18163416889 / (853)63416889
+    phone: (86)18163416889 (853)63416889
     contact_links:
     # - icon: twitter
     #   icon_pack: fab
