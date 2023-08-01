@@ -102,7 +102,7 @@ sections:
     order: desc
     subtitle: ""
     text: 
-      I am a PhD student in the [**Department of Economics**](https://econ.fss.um.edu.mo/), [**University of Macau**](https://www.um.edu.mo/about-um/), supervised by Professor [**Angus C. CHU**](https://sites.google.com/site/angusccc/home?authuser=0). In July 2022, I earned my master's degree in economics from the University of Macau. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\
+      I am a PhD student in the [Department of Economics](https://econ.fss.um.edu.mo/), [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). In July 2022, I earned my master's degree in economics from the University of Macau. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\
       
       My current research areas include economic growth, innovation and intellectual property rights. Recently, I am working on topics related to endogenous takeoff from stagnation to economic growth, which combines theory and empirical evidence.
       
@@ -157,9 +157,9 @@ sections:
       folders:
       - publication
     text: |-
-      [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, forthcoming. (with Angus Chu and Pietro Peretto)\
+      [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, forthcoming. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
       \
-      [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214). *Macroeconomic Dynamic*, forthcoming. (with Angus Chu)
+      [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214). *Macroeconomic Dynamic*, forthcoming. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
     title: Selected Publications
   design:
     columns: "2"
