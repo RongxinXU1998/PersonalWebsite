@@ -157,13 +157,12 @@ sections:
       folders:
       - publication
     text: |-
-      {{% callout note %}}
-      Quickly discover relevant content by [filtering publications](./publication/).
-      {{% /callout %}}
+      Export-Led Takeoff in a Schumpeterian Economy. *Journal of International Economic*, forthcoming. (with Angus Chu and Pietro Peretto)
     title: Recent Publications
   design:
     columns: "2"
     view: citation
+  id: Publication
 # - block: collection
 #   content:
 #     filters:
