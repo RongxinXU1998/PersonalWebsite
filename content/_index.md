@@ -162,7 +162,7 @@ sections:
   design:
     columns: "2"
     view: citation
-  id: Publication
+  id: publication
 # - block: collection
 #   content:
 #     filters:
