@@ -195,7 +195,7 @@ sections:
     - icon: twitter
       icon_pack: fab
       link: https://twitter.com/Rongxin_Xu
-    #   name: DM Me
+      name: https://twitter.com/Rongxin_Xu
     # - icon: skype
     #   icon_pack: fab
     #   link: skype:echo123?call
