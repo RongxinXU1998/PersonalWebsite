@@ -191,10 +191,10 @@ sections:
     autolink: true
     email: rongxin.xu@connect.um.edu.mo
     phone: (+86)18163416889 / (+853)63416889
-    # contact_links:
-    # - icon: twitter
-    #   icon_pack: fab
-    #   link: https://twitter.com/Twitter
+    contact_links:
+    - icon: twitter
+      icon_pack: fab
+      link: https://twitter.com/Rongxin_Xu
     #   name: DM Me
     # - icon: skype
     #   icon_pack: fab
