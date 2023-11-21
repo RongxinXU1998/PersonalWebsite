@@ -71,7 +71,7 @@ bio: My research interests include economic growth, innovation, and intellectual
 ---
 
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://uofmacau-my.sharepoint.com/:b:/g/personal/yc27308_umac_mo/EV00Gjg2ByVIl4IVj7Ly9CQBr2u1F2Y-Gf_F7kOmDlHV2A?e=5QNJHg" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://uofmacau-my.sharepoint.com/:b:/g/personal/yc27308_um_edu_mo/EV00Gjg2ByVIl4IVj7Ly9CQBWmWjTEzsdN0NOnyXTu9XPQ?e=Iwbgnf" "newtab" >}}Download my CV{{< /staticref >}}
 
 
 
