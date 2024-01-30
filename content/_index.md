@@ -157,7 +157,7 @@ sections:
     text: |-
       [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
       \
-      [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214). *Macroeconomic Dynamic*, forthcoming. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
+      [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214). *Macroeconomic Dynamics*, forthcoming. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
     title: Selected Publications
   design:
     columns: "2"
