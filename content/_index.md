@@ -104,7 +104,7 @@ sections:
     text: 
       I am a PhD student in the [Department of Economics](https://econ.fss.um.edu.mo/) at the [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\
       
-      Recently, I am working on topics related to endogenous takeoff from stagnation to economic growth, which combine theory and empirical evidence.
+      **I am currently on the 2024-2025 academic job market.**
     title: About Me
   design:
     columns: "2"
