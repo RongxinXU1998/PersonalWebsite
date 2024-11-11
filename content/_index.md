@@ -29,7 +29,7 @@ sections:
       Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0).
       My research areas include economic growth, innovation and intellectual property rights.
       My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics)
-      and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\\\nI
+      and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
       **I am current on the 2024-2025 academic job market**.
     count: 5
   design:
