@@ -17,7 +17,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Macau
-    year: Expected 2026
+    year: Expected 2025
   - course: MSc in Economics
     institution: University of Macau
     year: 2016
