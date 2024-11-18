@@ -104,7 +104,7 @@ sections:
     text: 
       I am a PhD candidate in the [Department of Economics](https://econ.fss.um.edu.mo/) at the [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\
       
-      **I am currently on the 2024-2025 academic job market.** My [**job market paper**](https://uofmacau-my.sharepoint.com/:b:/g/personal/yc27308_um_edu_mo/EXfULA-b4zZMppLWNlnjmugBNfNH1KPsMu4eyrYvBd2QmQ?e=IuT6lL) studies the effects of agricultural productivity on endogenous takeoff and economic growth.
+      **I am currently on the 2024-2025 academic job market.** My [**job market paper**](https://uofmacau-my.sharepoint.com/:b:/g/personal/yc27308_um_edu_mo/Ec5ezL-7LSVKu8dkQjlehTIB78xcAj28lxbaQETDp-ykQw?e=PWNhFl) studies the effects of agricultural productivity on endogenous takeoff and economic growth.
     title: About Me
   design:
     columns: "2"
