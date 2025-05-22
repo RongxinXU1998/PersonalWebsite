@@ -4,7 +4,7 @@ widget: about
 headless: true
 weight: 10
 username: admin
-title: "Rongxin Xu 徐榕鑫"
+title: "Rongxin XU 徐榕鑫"
 role: PhD candidate in Economics
 organizations:
 - name: University of Macau
