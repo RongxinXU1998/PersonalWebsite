@@ -7,8 +7,8 @@ username: admin
 title: "Rongxin Xu 徐榕鑫"
 role: Postdoctoral Fellow
 organizations:
-- name: University of Macau
-  url: https://www.um.edu.mo/about-um/
+- name: Huazhong University of Science and Technology
+  url: https://english.hust.edu.cn/
 design:
   column: "2"
 
@@ -17,14 +17,14 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Macau
-    year: Expected 2025
+    year: 2025
   - course: MSc in Economics
     institution: University of Macau
     year: 2016
   - course: BSc in Economics
     institution: Guangdong University of Foreign Studies
     year: 2016
-email: rongxinxu@connect.um.edu.mo
+email: rongxin.xu@connect.um.edu.mo
 highlight_name: no
 # interests:
 # - Organizational Behavior 
