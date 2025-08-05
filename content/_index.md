@@ -103,7 +103,7 @@ sections:
     subtitle: ""
     text: 
       I am a postdoc fellow at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at the [Huazhong University of Science](https://www.hust.edu.cn/index.htm).
-      I earned my PhD degree in economics from [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\
+      I earned my PhD degree in economics from [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
       
     title: About Me
   design:
@@ -155,7 +155,9 @@ sections:
       folders:
       - publication
     text: |-
-      [**Agricultural Trade and Industrial Development**](https://rongxinxu.netlify.app/JMP.pdf) (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      [**Agricultural Trade and Industrial Development**](https://rongxinxu.netlify.app/JMP.pdf) \
+      \
+      (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
     title: Working Papers
   design:
     columns: "2"
