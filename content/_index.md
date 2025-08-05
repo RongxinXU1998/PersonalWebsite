@@ -156,7 +156,6 @@ sections:
       - publication
     text: |-
       [**Agricultural Trade and Industrial Development**](https://rongxinxu.netlify.app/JMP.pdf) \
-      \
       (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
     title: Working Papers
   design:
