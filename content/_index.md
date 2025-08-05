@@ -195,15 +195,15 @@ sections:
 - block: contact
   content:
     address:
-      city: Macao SAR
+      city: Wuhan
       country: China
       country_code: CHN
-      street: University of Macau
+      street: Huazhong University of Science and Technology
       # postcode: "94305"
       region: China
     # appointment_url: https://calendly.com
     autolink: true
-    email: rongxin.xu@connect.um.edu.mo
+    email: rongxinxu@hust.edu.cn
     # phone: (+86)18163416889 / (+853)63416889
     # contact_links:
     # - icon: twitter
