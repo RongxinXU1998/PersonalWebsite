@@ -37,7 +37,7 @@ highlight_name: no
 social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: rongxin.xu@connect.um.edu.mo
+#   link: rongxinxu@hust.edu.cn
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=bVRfu3kAAAAJ&view_op=list_works&sortby=pubdate
