@@ -104,6 +104,7 @@ sections:
     text: 
       I am a postdoctoral fellow at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at [Huazhong University of Science](https://www.hust.edu.cn/index.htm).
       I earned my PhD degree in economics from the [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights.\
+      
       My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
       
     title: About Me
