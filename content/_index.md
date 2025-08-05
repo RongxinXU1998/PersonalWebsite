@@ -105,7 +105,6 @@ sections:
       I am a postdoc fellow at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at the [Huazhong University of Science](https://www.hust.edu.cn/index.htm).
       I earned my PhD degree in economics from [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights. My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).\
       
-      My [**job market paper**](https://rongxinxu.netlify.app/JMP.pdf) examines the effects of agricultural productivity on endogenous takeoff and economic growth.
     title: About Me
   design:
     columns: "2"
@@ -149,6 +148,19 @@ sections:
 #     columns: "2"
 #     view: card
 #   id: featured
+- block: collection
+  content:
+    filters:
+      exclude_featured: true
+      folders:
+      - publication
+    text: |-
+      [**Export-Led Takeoff in a Schumpeterian Economy**](https://rongxinxu.netlify.app/JMP.pdf) (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
+    title: Working Papers
+  design:
+    columns: "2"
+    view: citation
+  id: working papers
 - block: collection
   content:
     filters:
