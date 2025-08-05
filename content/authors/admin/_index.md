@@ -5,7 +5,7 @@ headless: true
 weight: 10
 username: admin
 title: "Rongxin Xu 徐榕鑫"
-role: PhD candidate in Economics
+role: Postdoctoral Fellow
 organizations:
 - name: University of Macau
   url: https://www.um.edu.mo/about-um/
