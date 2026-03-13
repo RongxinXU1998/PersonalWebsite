@@ -158,10 +158,10 @@ sections:
       folders:
       - publication
     text: |-
-      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf) (Feb 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
+      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf) (February 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
       Revised and resubmitted to *International Economic Review*
       
-      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (Feb 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
+      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (February 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
     title: Working Papers
   design:
     columns: "2"
