@@ -157,8 +157,8 @@ sections:
       folders:
       - publication
     text: |-
-      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture and trade.pdf) \
-      (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
+      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf)\
+      (Feb 2026) - (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
       Revised and resubmitted to *International Economic Review*
     title: Working Papers
   design:
