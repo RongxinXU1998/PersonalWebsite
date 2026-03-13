@@ -158,12 +158,10 @@ sections:
       folders:
       - publication
     text: |-
-      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf)\
-      (Feb 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
+      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf) (Feb 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
       Revised and resubmitted to *International Economic Review*
       
-      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf)\
-      (Feb 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
+      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (Feb 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
     title: Working Papers
   design:
     columns: "2"
@@ -176,8 +174,8 @@ sections:
       folders:
       - publication
     text: |-
-      [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
-      \
+      [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      
       [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214). *Macroeconomic Dynamics*, vol. 28, 699-717. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
     title: Selected Publications
   design:
