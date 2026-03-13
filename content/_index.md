@@ -101,7 +101,7 @@ sections:
     offset: 0
     order: desc
     subtitle: ""
-    text: |
+    text: 
     <div style="text-align: justify;">
     
       I am currently a postdoctoral fellow (funded by HUST key support program) at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/index.htm).\
@@ -212,7 +212,7 @@ sections:
       region: China
     # appointment_url: https://calendly.com
     autolink: true
-    email: rongxinxu@hust.edu.cn
+    email: rongxinecon@gmail.com
     # phone: (+86)18163416889 / (+853)63416889
     # contact_links:
     # - icon: twitter
