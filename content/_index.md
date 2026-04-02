@@ -175,10 +175,13 @@ sections:
       folders:
       - publication
     text: |-
+      [**Early State Formation and Interstate Competition in a Malthusian Economy**](https://rongxinxu.work/state_formation.pdf) (April 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Xilin Wang](https://scholar.google.com/citations?user=tnQj_E8AAAAJ&hl=en)
+      
+      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (February 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
+      
       [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf) (February 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
       Revised and resubmitted to *International Economic Review*
       
-      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (February 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
     title: Working Papers
   design:
     columns: "2"
