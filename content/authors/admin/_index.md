@@ -24,7 +24,7 @@ education:
   - course: BSc in Economics
     institution: Guangdong University of Foreign Studies
     year: 2016
-email: rongxinxu@hust.edu.cn
+email: rongxinecon@gmail.com
 highlight_name: no
 # interests:
 # - Organizational Behavior 
