@@ -175,7 +175,7 @@ sections:
       folders:
       - publication
     text: |-
-      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (May 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
+      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf) (June 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)
       
       [**Early State Formation and Interstate Competition in a Malthusian Economy**](https://rongxinxu.work/state_formation.pdf) (April 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Xilin Wang](https://scholar.google.com/citations?user=tnQj_E8AAAAJ&hl=en)
       
