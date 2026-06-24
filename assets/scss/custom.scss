@@ -1,3 +1,9 @@
 p {
   text-align: justify !important;
 }
+
+.avatar {
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover;
+}
