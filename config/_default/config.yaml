@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rongxin XU 徐榕鑫 # Website name
-# baseURL: 'https://rongxinxu.netlify.app/' # Website URL
-baseURL: 'https://rongxinxu.work' # Website URL
+baseURL: 'https://rongxinxu.netlify.app/' # Website URL
+# baseURL: 'https://rongxinxu.work' # Website URL
 
 ############################
 ## LANGUAGE
