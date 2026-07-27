@@ -4,7 +4,7 @@ widget: about
 headless: true
 weight: 10
 username: admin
-title: "Rongxin Xu 徐榕鑫"
+title: "Rongxin Xu"
 role: Postdoctoral Fellow
 organizations:
 - name: Huazhong University of Science and Technology
