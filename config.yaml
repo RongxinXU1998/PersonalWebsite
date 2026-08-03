@@ -1,3 +1,4 @@
-baseURL: https://rongxinxu.work/
+baseURL: https://rongxinxu.netlify.app/
+# baseURL: https://rongxinxu.work/
 languageCode: en-us
 title: My New Hugo Site
