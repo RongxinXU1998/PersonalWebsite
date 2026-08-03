@@ -71,7 +71,7 @@ bio: My research interests include economic growth, innovation, and intellectual
 ---
 
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://1drv.ms/b/c/7a2db4d134ef25e2/EdnheSxRLMdKm-iHsZ-d14QBCpcHrXNao6B7_fqASC96ow?e=9ewnT8" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://1drv.ms/b/c/7a2db4d134ef25e2/EdnheSxRLMdKm-iHsZ-d14QBCpcHrXNao6B7_fqASC96ow?e=9ewnT8" "newtab" >}}Curriculum Vitae{{< /staticref >}}
 
 
 
