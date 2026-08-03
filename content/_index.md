@@ -102,10 +102,10 @@ sections:
     order: desc
     subtitle: ""
     text: |-
-      I am currently a postdoctoral fellow (funded by HUST key support program) at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/index.htm).
+      I am currently a postdoctoral fellow (funded by HUST key support program) at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
+      # I earned my PhD degree in economics from the [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). 
       
-      I earned my PhD degree in economics from the [University of Macau](https://www.um.edu.mo/about-um/), supervised by Professor [Angus C. CHU](https://sites.google.com/site/angusccc/home?authuser=0). My research areas include economic growth, innovation and intellectual property rights.
-      
+      My research areas include economic growth, innovation and intellectual property rights.
       My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
     
     title: About Me
@@ -159,9 +159,11 @@ sections:
       folders:
       - publication
     text: |-
-      [**Export-Led Takeoff in a Schumpeterian Economy**](https://doi.org/10.1016/j.jinteco.2023.103798). *Journal of International Economic*, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      [Export-Led Takeoff in a Schumpeterian Economy](https://doi.org/10.1016/j.jinteco.2023.103798).\
+      ***Journal of International Economic***, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
       
-      [**From Neolithic Revolution to Industrialization**](http://dx.doi.org/10.1017/S1365100523000214). *Macroeconomic Dynamics*, vol. 28, 699-717. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
+      [From Neolithic Revolution to Industrialization](http://dx.doi.org/10.1017/S1365100523000214).\
+      ***Macroeconomic Dynamics***, vol. 28, 699-717. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
     title: Selected Publications
   design:
     columns: "2"
@@ -175,23 +177,23 @@ sections:
       folders:
       - publication
     text: |-
-      [**Agricultural Trade and Industrial Development**](https://rongxinxu.work/agriculture.pdf) (revised version to be available)\
+      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf) (revised version to be available)\
       (July 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
       Conditionally accepted by *International Economic Review*
       
-      [**Tourism, Takeoff and Growth: A Quantitative Analysis of Macau**](https://rongxinxu.work/tourism.pdf)\
+      [Tourism, Takeoff and Growth: A Quantitative Analysis of Macau](https://rongxinxu.work/tourism.pdf)\
       (July 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0)\
       Revised and resubmitted to *Journal of Macroeconomics*
       
-      [**Early State Formation and Interstate Competition in a Malthusian Economy**](https://rongxinxu.work/state_formation.pdf)\
+      [Early State Formation and Interstate Competition in a Malthusian Economy](https://rongxinxu.work/state_formation.pdf)\
       (June 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Xilin Wang](https://scholar.google.com/citations?user=tnQj_E8AAAAJ&hl=en)
-    
+      
     title: Working Papers
   design:
     columns: "2"
     view: citation
   id: working papers
-
+  
 # - block: collection
 #   content:
 #     filters:
