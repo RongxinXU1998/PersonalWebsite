@@ -59,10 +59,10 @@ social:
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/
-# Link to a PDF of your resume/CV.
-# - icon: cv
-#   icon_pack: ai
-#   link: cv/shilaan.pdf
+Link to a PDF of your resume/CV.
+- icon: cv
+  icon_pack: ai
+  link: cv/shilaan.pdf
 
 
 superuser: yes
