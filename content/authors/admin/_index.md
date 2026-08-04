@@ -59,10 +59,6 @@ social:
 # - icon: instagram
 #   icon_pack: fab
 #   link: https://www.instagram.com/shilaan01/
-Link to a PDF of your resume/CV.
-- icon: cv
-  icon_pack: ai
-  link: cv/shilaan.pdf
 
 
 superuser: yes
@@ -71,7 +67,7 @@ bio: My research interests include economic growth, innovation, and intellectual
 ---
 
 
-#### <i class="fa fa-file-pdf-o" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "https://1drv.ms/b/c/7a2db4d134ef25e2/EdnheSxRLMdKm-iHsZ-d14QBCpcHrXNao6B7_fqASC96ow?e=9ewnT8" "newtab" >}}Curriculum Vitae{{< /staticref >}}
+#### {{< staticref "https://1drv.ms/b/c/7a2db4d134ef25e2/EdnheSxRLMdKm-iHsZ-d14QBCpcHrXNao6B7_fqASC96ow?e=9ewnT8" "newtab" >}}<span style="text-decoration: underline;">Curriculum Vitae</span>{{< /staticref >}}
 
 
 
