@@ -184,7 +184,7 @@ sections:
       [Early State Formation and Interstate Competition in a Malthusian Economy](https://rongxinxu.work/state_formation.pdf)\
       (June 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Xilin Wang](https://scholar.google.com/citations?user=tnQj_E8AAAAJ&hl=en)
       
-       
+      <br> 
       
       <u>**Forthcoming Paper**</u>\
       [Tourism, Takeoff and Growth: A Quantitative Analysis of Macau](https://rongxinxu.work/tourism.pdf)\
