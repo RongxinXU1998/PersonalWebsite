@@ -177,10 +177,6 @@ sections:
       - publication
     text: |-
       
-      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf)\
-      (August 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/)\
-      Conditionally accepted by *International Economic Review*
-      
       [Early State Formation and Interstate Competition in a Malthusian Economy](https://rongxinxu.work/state_formation.pdf) (revised version to be available)\
       (June 2026) - with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Xilin Wang](https://scholar.google.com/citations?user=tnQj_E8AAAAJ&hl=en)\
       Revise and Resubmit at *Journal of Population Economics*
@@ -188,6 +184,9 @@ sections:
       <br> 
       
       <u>**Forthcoming Paper**</u>\
+      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf)\
+      *International Economic Review*, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      
       [Tourism, Takeoff and Growth: A Quantitative Analysis of Macau](https://rongxinxu.work/tourism.pdf)\
       *Journal of Macroeconomics*, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
       
