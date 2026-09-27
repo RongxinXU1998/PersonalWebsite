@@ -158,14 +158,17 @@ sections:
       folders:
       - publication
     text: |-
-      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf)\
-      ***International Economic Review***, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf) 
+      (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
+      ***International Economic Review***, forthcoming.
       
-      [From Neolithic Revolution to Industrialization](http://dx.doi.org/10.1017/S1365100523000214)\
-      ***Macroeconomic Dynamics***, 2024, vol. 28, 699-717. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
+      [From Neolithic Revolution to Industrialization](http://dx.doi.org/10.1017/S1365100523000214) 
+      (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))\
+      ***Macroeconomic Dynamics***, 2024, vol. 28, 699-717. 
       
-      [Export-Led Takeoff in a Schumpeterian Economy](https://doi.org/10.1016/j.jinteco.2023.103798)\
-      ***Journal of International Economics***, 2023, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      [Export-Led Takeoff in a Schumpeterian Economy](https://doi.org/10.1016/j.jinteco.2023.103798) 
+      (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
+      ***Journal of International Economics***, 2023, vol. 145, 103798. 
       
     title: Selected Publications
   design:
