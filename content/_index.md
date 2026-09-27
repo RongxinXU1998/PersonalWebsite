@@ -105,7 +105,7 @@ sections:
       I am currently a postdoctoral fellow (funded by HUST key support program) at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
       
       My research areas include economic growth, innovation and intellectual property rights.
-      My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics), [*International Economic Review*](https://onlinelibrary.wiley.com/journal/14682354) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
+      My research findings have been published in journals, such as [*International Economic Review*](https://onlinelibrary.wiley.com/journal/14682354), [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics), and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
     
     title: About Me
   design:
