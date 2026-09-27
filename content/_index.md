@@ -105,7 +105,7 @@ sections:
       I am currently a postdoctoral fellow (funded by HUST key support program) at the [School of Economics](https://eco.hust.edu.cn/xygk/xyjj.htm) at [Huazhong University of Science and Technology](https://english.hust.edu.cn/).
       
       My research areas include economic growth, innovation and intellectual property rights.
-      My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
+      My research findings have been published in journals, such as [*Journal of International Economics*](https://www.sciencedirect.com/journal/journal-of-international-economics), [*International Economic Review*](https://onlinelibrary.wiley.com/journal/14682354) and [*Macroeconomic Dynamics*](https://www.cambridge.org/core/journals/macroeconomic-dynamics).
     
     title: About Me
   design:
@@ -159,13 +159,14 @@ sections:
       - publication
     text: |-
       [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf)\
-      *International Economic Review*, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
-    
-      [Export-Led Takeoff in a Schumpeterian Economy](https://doi.org/10.1016/j.jinteco.2023.103798)\
-      ***Journal of International Economics***, 2023, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      ***International Economic Review***, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
       
       [From Neolithic Revolution to Industrialization](http://dx.doi.org/10.1017/S1365100523000214)\
       ***Macroeconomic Dynamics***, 2024, vol. 28, 699-717. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
+      
+      [Export-Led Takeoff in a Schumpeterian Economy](https://doi.org/10.1016/j.jinteco.2023.103798)\
+      ***Journal of International Economics***, 2023, vol. 145, 103798. (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
+      
     title: Selected Publications
   design:
     columns: "2"
