@@ -194,7 +194,7 @@ sections:
       [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf)\
       *International Economic Review*, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
       
-      [Tourism, Takeoff and Growth: A Quantitative Analysis of Macau](https://rongxinxu.work/tourism.pdf)\
+      [Tourism, Takeoff and Growth: A Quantitative Analysis of Macau](https://doi.org/10.1016/j.jmacro.2026.103809)\
       *Journal of Macroeconomics*, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0))
       
     title: Working Papers
