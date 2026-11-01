@@ -170,6 +170,9 @@ sections:
       (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
       ***Journal of International Economics***, 2023, vol. 145, 103798. 
       
+      <br> 
+      
+      For a complete list of my publications, please refer to my [CV](https://1drv.ms/b/c/7a2db4d134ef25e2/EdnheSxRLMdKm-iHsZ-d14QBCpcHrXNao6B7_fqASC96ow?e=9ewnT8).
     title: Selected Publications
   design:
     columns: "2"
