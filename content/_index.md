@@ -158,7 +158,7 @@ sections:
       folders:
       - publication
     text: |-
-      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf) 
+      [Agricultural Trade and Industrial Development](https://doi.org/10.1111/iere.70123) 
       (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))\
       ***International Economic Review***, forthcoming.
       
@@ -194,7 +194,7 @@ sections:
       <br> 
       
       <u>**Forthcoming Paper**</u>\
-      [Agricultural Trade and Industrial Development](https://rongxinxu.work/agriculture.pdf)\
+      [Agricultural Trade and Industrial Development](https://doi.org/10.1111/iere.70123)\
       *International Economic Review*, forthcoming (with [Angus Chu](https://sites.google.com/site/angusccc/home?authuser=0), [Yuichi Furukawa](https://sites.google.com/site/youfurukawa/) and [Pietro Peretto](http://public.econ.duke.edu/~peretto/))
       
       [Tourism, Takeoff and Growth: A Quantitative Analysis of Macau](https://doi.org/10.1016/j.jmacro.2026.103809)\
